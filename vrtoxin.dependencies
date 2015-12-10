@@ -12,6 +12,12 @@
     "revision": "M"
   },
   {
+    "remote": "device",
+    "repository": "android_device_qcom_sepolicy",
+    "target_path": "device/qcom/sepolicy",
+    "revision": "M"
+  },
+  {
     "remote": "origin",
     "repository": "android_external_stlport",
     "target_path": "external/stlport",
